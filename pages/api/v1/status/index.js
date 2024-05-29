@@ -1,9 +1,11 @@
 import database from "infra/database.js";
 
 async function status(request, response) {
-  const result = await database.query("select 1+1 as SOMA;");
-  console.log(result.rows);
-  response.status(200).json({ chave: "Maa oeeeÊEE" });
+  const updatedAt = new Date().toISOString();
+
+  response.status(200).json({
+    updated_at: updatedAt,
+  });
 }
 
 export default status;
