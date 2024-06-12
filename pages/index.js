@@ -17,7 +17,7 @@ function Home() {
         </h1>
         <div style={{ margin: "20px 0" }}>
           <img
-            src="https://media.giphy.com/media/3o7aD4lRz6t0gIhG7y/giphy.gif"
+            src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDNjajJnY2k5ZmNnbmFvaWtkbWd6bnJhYWVwdnIwYzVoNnJqbmc1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3CCXHZWV6F6O9VQ7FL/giphy.gif"
             alt="Corações Animados"
           />
         </div>
@@ -32,7 +32,7 @@ function Home() {
         </p>
         <div style={{ margin: "20px 0" }}>
           <img
-            src="https://media.giphy.com/media/xThta9RSK7ob0p0w4k/giphy.gif"
+            src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Q0NDdnY3RldDd2ejczeDd3dGdpZjE5b3kyZGVuNGw5dTNuenl1diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VIKa3CjZDCoymNcBY5/giphy.gif"
             alt="Amor e Romance"
           />
         </div>
@@ -43,7 +43,7 @@ function Home() {
         </p>
         <div style={{ margin: "20px 0" }}>
           <img
-            src="https://media.giphy.com/media/l0ExncehJzexFpRHq/giphy.gif"
+            src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGE0ZmIwbWJ5ZTF1OW1xbnc1c3Znd2Q1ODQ4bWp2Y255Nmxld2N5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/95xRbt5dxppWE/giphy.gif"
             alt="Flores para Você"
           />
         </div>
