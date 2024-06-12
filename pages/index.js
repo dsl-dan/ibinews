@@ -28,7 +28,7 @@ function Home() {
           />
         </div>
         <p style={{ color: "#333", fontSize: "1.2em" }}>
-          Pri, minha linda Esposa,
+          <strong>Pri</strong>, minha linda Esposa,
         </p>
         <p style={{ color: "#333", fontSize: "1.2em" }}>
           Neste Dia dos Namorados, quero que você saiba o quanto eu te amo e
@@ -58,7 +58,7 @@ function Home() {
         <p style={{ color: "#333", fontSize: "1.2em" }}>
           Com todo o meu amor,
           <br />
-          Dani
+          <strong>Dani</strong> ;*
         </p>
       </div>
     </div>
