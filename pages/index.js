@@ -17,7 +17,7 @@ function Home() {
         </h1>
         <div style={{ margin: "20px 0" }}>
           <img
-            src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDNjajJnY2k5ZmNnbmFvaWtkbWd6bnJhYWVwdnIwYzVoNnJqbmc1eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3CCXHZWV6F6O9VQ7FL/giphy.gif"
+            src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXc4amY1NTJqMXhkeW9xc210MHJ2NXo3NWxkeG15ang3cmE5aWY5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7W1rgKAxlDe3m/giphy.gif"
             alt="Corações Animados"
           />
         </div>
