@@ -9,16 +9,22 @@ function Home() {
         margin: 0,
         padding: 0,
         fontFamily: "Arial, sans-serif",
+        minHeight: "100vh",
+        display: "flex",
+        flexDirection: "column",
+        justifyContent: "center",
+        alignItems: "center",
       }}
     >
-      <div style={{ padding: "50px" }}>
-        <h1 style={{ color: "#ff6666" }}>
+      <div style={{ padding: "20px", maxWidth: "600px", width: "100%" }}>
+        <h1 style={{ color: "#ff6666", fontSize: "2rem" }}>
           Invadir o site só para te desejar: Feliz Dia dos Namorados, Meu Amor!
         </h1>
         <div style={{ margin: "20px 0" }}>
           <img
             src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXc4amY1NTJqMXhkeW9xc210MHJ2NXo3NWxkeG15ang3cmE5aWY5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7W1rgKAxlDe3m/giphy.gif"
             alt="Corações Animados"
+            style={{ maxWidth: "100%", height: "auto" }}
           />
         </div>
         <p style={{ color: "#333", fontSize: "1.2em" }}>
@@ -34,6 +40,7 @@ function Home() {
           <img
             src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3Q0NDdnY3RldDd2ejczeDd3dGdpZjE5b3kyZGVuNGw5dTNuenl1diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VIKa3CjZDCoymNcBY5/giphy.gif"
             alt="Amor e Romance"
+            style={{ maxWidth: "100%", height: "auto" }}
           />
         </div>
         <p style={{ color: "#333", fontSize: "1.2em" }}>
@@ -43,14 +50,15 @@ function Home() {
         </p>
         <div style={{ margin: "20px 0" }}>
           <img
-            src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGE0ZmIwbWJ5ZTF1OW1xbnc1c3Znd2Q1ODQ4bWp2Y255Nmxld2N5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/95xRbt5dxppWE/giphy.gif"
+            src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWRtdWw2bjY3dDg5cDlpMTk5MnJnanozem9jZWhncHlkdGluaXNlMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LDBZq2hp0Mlrw5Szyj/giphy.gif"
             alt="Flores para Você"
+            style={{ maxWidth: "100%", height: "auto" }}
           />
         </div>
         <p style={{ color: "#333", fontSize: "1.2em" }}>
           Com todo o meu amor,
           <br />
-          [Dani]
+          Dani
         </p>
       </div>
     </div>
