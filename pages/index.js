@@ -21,7 +21,9 @@ function Home() {
             alt="Corações Animados"
           />
         </div>
-        <p style={{ color: "#333", fontSize: "1.2em" }}>Minha linda Esposa,</p>
+        <p style={{ color: "#333", fontSize: "1.2em" }}>
+          Pri, minha linda Esposa,
+        </p>
         <p style={{ color: "#333", fontSize: "1.2em" }}>
           Neste Dia dos Namorados, quero que você saiba o quanto eu te amo e
           aprecio cada momento que passamos juntos. Você é a luz da minha vida e
@@ -48,7 +50,7 @@ function Home() {
         <p style={{ color: "#333", fontSize: "1.2em" }}>
           Com todo o meu amor,
           <br />
-          [Seu Nome]
+          [Dani]
         </p>
       </div>
     </div>
